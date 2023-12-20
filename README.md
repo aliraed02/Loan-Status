@@ -23,11 +23,3 @@ The Loan Status Prediction project leverages machine learning techniques to pred
 2. **Model Training:** Run the provided scripts to train the machine learning model on your dataset.
 
 3. **Prediction:** Utilize the trained model to predict loan status for new loan applications.
-
-## Contributing
-
-Contributions are welcome! If you have ideas for improvement, feature requests, or bug reports, please open an issue or submit a pull request.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
