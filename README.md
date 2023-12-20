@@ -1,4 +1,4 @@
-# Loan Status Prediction
+# Loan Status Prediction Using Machine Learning =
 
 ## Overview
 
@@ -10,11 +10,13 @@ The Loan Status Prediction project leverages machine learning techniques to pred
 
 - **Feature Engineering:** Extract relevant features from the dataset and transform them to enhance the predictive power of the model.
 
-- **Machine Learning Model:** Implement and train a machine learning model using algorithms such as logistic regression, decision trees, or ensemble methods to predict loan status.
+- **Machine Learning Model:** Implement and train a machine learning model using algorithms such as logistic regression, decision tree, ensemble model (random forest, gradient bossting)  to predict loan status.
 
-- **Accuracy Evaluation:** Evaluate the model's performance using metrics such as accuracy, precision, recall, and F1-score to ensure robust predictions.
+- **Hyperparameter Tuning:** Fine-tune the model's hyperparameters to optimize its performance. This involves systematically searching through a range of hyperparameter values to find the best configuration.
 
-- **Web Application Interface (Optional):** Develop a user-friendly interface to allow users to input loan application details and receive instant predictions.
+- **Accuracy Evaluation:** Evaluate the model's performance using metrics such as accuracy.
+
+- **User Interface:** Develop a user-friendly interface to allow users to input loan application details and receive instant predictions.
 
 ## How to Use
 
