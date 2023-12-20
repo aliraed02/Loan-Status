@@ -1,4 +1,4 @@
-# Loan Status Prediction Using Machine Learning =
+# Loan Status Prediction Using Machine Learning
 
 ## Overview
 
